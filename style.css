@@ -1,0 +1,21 @@
+body{
+    background-color: #E3FDFD;
+}
+hr{border-style: none;
+ border-top-style: dotted;
+   border-color: rgb(136, 138, 140);
+width: 10%;
+border-width: 4.5px;
+}
+h1 {
+    block-size: auto;
+    color: #66BFBF;
+}
+h2 {clear: both;
+    color: #4a6578;
+}
+img{
+    margin: 1.2%; ;
+   float: left;
+    border-radius: 50%;
+}
